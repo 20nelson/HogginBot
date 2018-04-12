@@ -1,0 +1,16 @@
+# IntelliJ files
+.idea/
+*.idea
+gen/
+classes/
+out/
+build
+*build
+*.iml
+*.ipr
+*.iws
+
+# GradleRIO files
+FRC2018.iml
+FRC2018.ipr
+FRC2018.iws
